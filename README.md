@@ -51,5 +51,5 @@ pip install git+https://github.com/zaylinkhant02/URL-shortener.git
 ## Using Installed Python Packages
 
 ```bash
-url-shortener https://example.com/very-long-url](https://example.com/very-long-url
+url-shortener https://example.com/very-long-url
 ```

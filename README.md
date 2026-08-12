@@ -45,9 +45,9 @@ chmod +x url-shortener-linux
 
 If you have Python installed, you could also install it directly from the GitHub repository:
 ```bash
-pip install git+[https://github.com/zaylinkhant02/URL-shortener.git](https://github.com/zaylinkhant02/URL-shortener.git)
+pip install git+https://github.com/zaylinkhant02/URL-shortener.git
 ```
 
 ## Using Installed Python Packages
 
-url-shortener [https://example.com/very-long-url](https://example.com/very-long-url)
+url-shortener https://example.com/very-long-url](https://example.com/very-long-url

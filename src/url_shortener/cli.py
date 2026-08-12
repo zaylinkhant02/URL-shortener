@@ -1,6 +1,6 @@
 import argparse
 import sys
-from shortener import shorten_url
+from url_shortener.shortener import shorten_url
 
 def main():
     parser = argparse.ArgumentParser(description="Shorten long URLs via CLI.")
